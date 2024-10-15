@@ -17,7 +17,7 @@ This repository contains an analysis and implementation of the **K-means cluster
 ## 💻 How to Run the Code
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/leostall/K-means-Clustering-Analysis.git
+    git clone https://github.com/leostall/k-means.git
     ```
 
 2. **Install dependencies**:
